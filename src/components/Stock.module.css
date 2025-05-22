@@ -1,0 +1,25 @@
+.stockBlock {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    background-color: beige;
+    padding: 10px;
+    margin: 10px;
+    flex-wrap: wrap;
+    border-radius: 5%;
+
+}
+
+.valuesBlock {
+    justify-content:center;
+    flex-direction: column;
+}
+
+h1{
+    margin-right:20px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: large;
+}
